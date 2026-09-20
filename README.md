@@ -44,7 +44,7 @@
 <tr>
 <td width="55%">
 
-```text
+
 ┌──────────────────────────────────────────────┐
 │              DEVELOPER PROFILE               │
 ├──────────────────────────────────────────────┤
@@ -63,7 +63,6 @@
 │  ● Improving                                  │
 │                                              │
 └──────────────────────────────────────────────┘
-````
 
 </td>
 
@@ -432,7 +431,7 @@ An AI and NLP based chatbot concept designed to process natural language queries
                     │  CREATE IMPACT   │
                     │       ⚡         │
                     └──────────────────┘
-```
+
 
 </div>
 
@@ -490,7 +489,7 @@ An AI and NLP based chatbot concept designed to process natural language queries
 > 🚀 INITIALIZING FUTURE...
 > ████████████████████████████████████ 100%
 > SUCCESS!
-```
+
 
 </div>
 
@@ -630,5 +629,3 @@ New technologies
 
 </div>
 
-
-**Important:** is version mein actual animations mostly external SVG/GIF services se aa rahi hain, isliye GitHub par README render hone ke baad typing/wave effects automatically animate honge. **Snake** ke liye GitHub Action alag se chahiye; woh setup karoge to contribution snake bhi genuinely animate hoga.
