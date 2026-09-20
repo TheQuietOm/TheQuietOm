@@ -1,48 +1,26 @@
+Yes 😭🔥 Ab ye wala **much more loaded + animated + premium** bana raha hoon. Isme animated header/footer, multiple typing animations, GIF, neon badges, animated contribution graph, snake, trophies, profile stats, project cards, timeline-style sections, terminal, quote animation, etc. hain.
+
+**Purana README pura delete karke sirf ye complete code paste karo:**
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=THE%20QUIET%20OM&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Code%20%7C%20Create%20%7C%20Innovate&descAlignY=60&descSize=20" width="100%"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey+%F0%9F%91%8B%2C+I'm+Om;Frontend+Developer+%F0%9F%92%BB;Java+%7C+.NET+%7C+Web+Developer+%F0%9F%9A%80;Problem+Solver+%7C+Tech+Enthusiast+%F0%9F%A7%A0;Turning+Ideas+Into+Reality+%E2%9C%A8" alt="Typing SVG"/>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=TheQuietOm&label=PROFILE%20VIEWS&color=00F7FF&style=for-the-badge" alt="Profile Views"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 👨‍💻 About Me
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0F2027,50:203A43,75:2C5364,100:00F7FF&height=250&section=header&text=THE%20QUIET%20OM&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=DEVELOPER%20%7C%20CREATOR%20%7C%20PROBLEM%20SOLVER&descAlignY=58&descSize=18" width="100%"/>
 
 <br>
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Hey+%F0%9F%91%8B%2C+I'm+Om+Jani;Frontend+Developer+%7C+Java+%7C+.NET+%7C+Web;Turning+Ideas+Into+Interactive+Experiences+%F0%9F%9A%80" alt="Typing Animation"/>
 
-```text
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║   👨‍💻 Developer                                            ║
-║   💻 Frontend & Web Enthusiast                            ║
-║   🧠 Problem Solver                                       ║
-║   🚀 Technology Explorer                                  ║
-║   🎨 Creative Thinker                                     ║
-║   🇮🇳 Based in India                                      ║
-║                                                            ║
-║   Building • Learning • Creating • Improving              ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-````
+<br>
 
-### ✨ Quiet mind. Creative ideas. Powerful code. ⚡
+<img src="https://komarev.com/ghpvc/?username=TheQuietOm&label=PROFILE%20VIEWS&color=00F7FF&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/TheQuietOm?label=Followers&style=for-the-badge&color=203A43&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/TheQuietOm?label=Stars&style=for-the-badge&color=00F7FF&logo=github"/>
+
+<br><br>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGd4d2NqY3V0eHNvN3J5YjV2d3E1aG1uYzY4eGJ6eXJ4c2Y4dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="500"/>
 
 </div>
 
@@ -50,48 +28,127 @@
 
 <div align="center">
 
-## 🚀 What I Do
+# ⚡ `SYSTEM.INIT()`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=800&color=7CFC00&center=true&vCenter=true&width=750&lines=%5BOK%5D+Loading+developer+profile...;%5BOK%5D+Initializing+creativity...;%5BOK%5D+Compiling+ideas...;%5BOK%5D+Connecting+to+the+future...;%5BSUCCESS%5D+Welcome+to+Om's+digital+world+%F0%9F%9A%80" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 👨‍💻 WHO AM I?
+
+</div>
+
+<table align="center">
+<tr>
+<td width="55%">
+
+```text
+┌──────────────────────────────────────────────┐
+│              DEVELOPER PROFILE               │
+├──────────────────────────────────────────────┤
+│                                              │
+│  👤 Name       : Om Jani                    │
+│  💻 Role       : Developer                  │
+│  🌐 Focus      : Web Development            │
+│  ⚡ Specialty  : Frontend & Applications     │
+│  🧠 Mindset    : Problem Solver             │
+│  🚀 Mission    : Build Something Great      │
+│  🇮🇳 Location   : India                      │
+│                                              │
+│  STATUS:                                      │
+│  ● Learning                                   │
+│  ● Building                                   │
+│  ● Improving                                  │
+│                                              │
+└──────────────────────────────────────────────┘
+````
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=900&color=00F7FF&center=true&vCenter=true&width=400&lines=Think+%F0%9F%A7%A0;Create+%F0%9F%92%A1;Code+%F0%9F%92%BB;Debug+%F0%9F%94%A5;Repeat+%F0%9F%9A%80"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# 🧬 `ABOUT_ME.exe`
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2200&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=%3E+Passionate+about+technology+and+development;%3E+Love+turning+ideas+into+real+projects;%3E+Interested+in+modern+web+experiences;%3E+Enjoy+solving+logic+and+programming+problems;%3E+Always+learning+something+new;%3E+Code.+Learn.+Build.+Repeat.+%E2%9A%A1"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🌌 MY DEVELOPER UNIVERSE
 
 <table>
 <tr>
 
-<td align="center" width="25%">
+<td align="center" width="20%">
 
-### 💻
+## 💻
 
-**Development**
+### CODE
 
-Building modern applications and software solutions.
-
-</td>
-
-<td align="center" width="25%">
-
-### 🎨
-
-**Frontend**
-
-Creating clean, responsive and interactive interfaces.
+Building applications and turning ideas into reality.
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="20%">
 
-### 🧠
+## 🎨
 
-**Problem Solving**
+### DESIGN
 
-Turning complex problems into simple solutions.
+Creating clean and interactive interfaces.
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="20%">
 
-### 🌱
+## 🧠
 
-**Learning**
+### LOGIC
 
-Exploring technologies and continuously improving.
+Breaking problems into simple solutions.
+
+</td>
+
+<td align="center" width="20%">
+
+## 🚀
+
+### BUILD
+
+Experimenting with technologies and projects.
+
+</td>
+
+<td align="center" width="20%">
+
+## 🌱
+
+### LEARN
+
+Growing every single day.
 
 </td>
 
@@ -104,35 +161,37 @@ Exploring technologies and continuously improving.
 
 <div align="center">
 
-# 🛠️ Tech Stack
+# ⚡ TECH ARSENAL
 
-### 💻 Programming Languages
+<br>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,php,js" />
+### 🔥 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,php,js&theme=dark"/>
 
 <br><br>
 
-### 🌐 Frontend Development
+### 🌐 Frontend Universe
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind&theme=dark"/>
 
 <br><br>
 
 ### ⚙️ Backend & Frameworks
 
-<img src="https://skillicons.dev/icons?i=nodejs,dotnet" />
+<img src="https://skillicons.dev/icons?i=nodejs,dotnet&theme=dark"/>
 
 <br><br>
 
-### 🗄️ Databases
+### 🗄️ Database
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"/>
 
 <br><br>
 
-### 🎨 Tools & Design
+### 🛠️ Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark"/>
 
 </div>
 
@@ -140,38 +199,25 @@ Exploring technologies and continuously improving.
 
 <div align="center">
 
-# ⚡ Technology Arsenal
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+# 📊 SKILL MATRIX
 
 <br>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
-
+<img src="https://img.shields.io/badge/HTML5-████████████████████-E34F26?style=for-the-badge"/>
 <br>
-
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-
+<img src="https://img.shields.io/badge/CSS3-███████████████████░-1572B6?style=for-the-badge"/>
 <br>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=canva\&logoColor=white)
+<img src="https://img.shields.io/badge/JavaScript-██████████████████░░-F7DF1E?style=for-the-badge"/>
+<br>
+<img src="https://img.shields.io/badge/Java-████████████████░░░░-ED8B00?style=for-the-badge"/>
+<br>
+<img src="https://img.shields.io/badge/.NET-████████████████░░░░-512BD4?style=for-the-badge"/>
+<br>
+<img src="https://img.shields.io/badge/React-██████████████░░░░░░-61DAFB?style=for-the-badge"/>
+<br>
+<img src="https://img.shields.io/badge/Python-██████████████░░░░░░-3776AB?style=for-the-badge"/>
+<br>
+<img src="https://img.shields.io/badge/SQL-████████████████░░░░-4479A1?style=for-the-badge"/>
 
 </div>
 
@@ -179,7 +225,7 @@ Exploring technologies and continuously improving.
 
 <div align="center">
 
-# 🚀 Featured Projects
+# 🚀 FEATURED PROJECTS
 
 </div>
 
@@ -189,29 +235,60 @@ Exploring technologies and continuously improving.
 
 <td width="50%">
 
-<h3 align="center">🎓 Campus Collaboration Platform</h3>
+<div align="center">
 
-<p align="center">
-A full-stack college collaboration platform connecting students and administrators through posts, messaging, notifications, follows and support tickets.
-</p>
+# 🎓
 
-<p align="center">
-<b>ASP.NET MVC • C# • .NET • EF Core • SQL Server</b>
-</p>
+## Campus Collaboration Platform
+
+</div>
+
+A full-stack college collaboration platform designed to connect students and administrators.
+
+### ✨ Features
+
+* 👥 User & Admin roles
+* 📝 Posts
+* ❤️ Likes & Comments
+* 💬 Messaging
+* 🔔 Notifications
+* 🤝 Follow system
+* 🎫 Support Tickets
+* 👤 User Profiles
+
+### ⚙️ Stack
+
+`ASP.NET MVC` `C#` `.NET` `EF Core` `SQL Server`
 
 </td>
 
 <td width="50%">
 
-<h3 align="center">♻️ Waste Management System</h3>
+<div align="center">
 
-<p align="center">
-A web-based waste management platform for recyclable waste management, collection tracking, rewards and activity monitoring.
-</p>
+# ♻️
 
-<p align="center">
-<b>TypeScript • HTML • CSS • JavaScript • Node.js</b>
-</p>
+## Waste Management System
+
+</div>
+
+A web platform focused on waste collection, recycling and reward management.
+
+### ✨ Features
+
+* 👤 Registration & Login
+* ♻️ Sell Waste
+* 📸 Waste Images
+* ⚖️ Weight Tracking
+* 🪙 Reward Coins
+* 🚚 Pickup Requests
+* 💰 Wallet
+* 📊 Activity Charts
+* 🌙 Dark Mode
+
+### ⚙️ Stack
+
+`TypeScript` `HTML` `CSS` `JavaScript` `Node.js`
 
 </td>
 
@@ -221,29 +298,43 @@ A web-based waste management platform for recyclable waste management, collectio
 
 <td width="50%">
 
-<h3 align="center">🚦 Traffic Management System</h3>
+<div align="center">
 
-<p align="center">
-A smart traffic management concept focused on digitally monitoring and managing traffic-related activities.
-</p>
+# 🚦
 
-<p align="center">
-<b>Programming • Web Technologies • Problem Solving</b>
-</p>
+## Traffic Management System
+
+</div>
+
+A smart traffic management project focused on digital traffic monitoring and management.
+
+### 🎯 Focus
+
+* Traffic monitoring
+* Smart management
+* Digital solutions
+* Problem solving
 
 </td>
 
 <td width="50%">
 
-<h3 align="center">🤖 AI Chatbot</h3>
+<div align="center">
 
-<p align="center">
-An interactive chatbot concept using Artificial Intelligence and Natural Language Processing to process user queries.
-</p>
+# 🤖
 
-<p align="center">
-<b>Python • AI • NLP</b>
-</p>
+## AI Chatbot
+
+</div>
+
+An AI and NLP based chatbot concept designed to process natural language queries.
+
+### 🧠 Focus
+
+* Artificial Intelligence
+* Natural Language Processing
+* Text interaction
+* Intelligent responses
 
 </td>
 
@@ -255,17 +346,17 @@ An interactive chatbot concept using Artificial Intelligence and Natural Languag
 
 <div align="center">
 
-# 📊 GitHub Analytics
+# 📈 GITHUB PERFORMANCE
 
 <br>
 
-<img src="https://github-readme-stats.shion.dev/api?username=TheQuietOm&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=TheQuietOm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="48%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheQuietOm&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheQuietOm&theme=tokyonight&hide_border=true" width="48%"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=TheQuietOm&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheQuietOm&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" width="45%"/>
 
 </div>
 
@@ -273,41 +364,11 @@ An interactive chatbot concept using Artificial Intelligence and Natural Languag
 
 <div align="center">
 
-# 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=TheQuietOm&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheQuietOm&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 🌱 Currently Learning
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=7CFC00&center=true&vCenter=true&width=800&lines=Exploring+Java+%E2%98%95;Improving+.NET+Skills+%E2%9A%99%EF%B8%8F;Building+Modern+Web+Applications+%F0%9F%8C%90;Learning+React+%E2%9A%9B%EF%B8%8F;Solving+Programming+Problems+%F0%9F%A7%A0;Always+Learning+Something+New+%F0%9F%8C%B1"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 🧠 Developer Philosophy
+# 🏆 GITHUB TROPHIES
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1300&color=00F7FF&center=true&vCenter=true&width=850&lines=Every+problem+has+a+solution.;Every+bug+teaches+something.;Every+project+starts+with+an+idea.;Don't+just+write+code...+create+something.;Keep+Building.+Keep+Learning.+%F0%9F%9A%80"/>
+<img src="https://github-profile-trophy.vercel.app/?username=TheQuietOm&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" width="100%"/>
 
 </div>
 
@@ -315,22 +376,64 @@ An interactive chatbot concept using Artificial Intelligence and Natural Languag
 
 <div align="center">
 
-# ⚡ Developer Mode
+# 📈 CONTRIBUTION ACTIVITY
 
-```text
-╔════════════════════════════════════════════════════════╗
-║                                                        ║
-║             SYSTEM STATUS : ONLINE 🟢                 ║
-║                                                        ║
-║   CODE          ████████████████████  100%             ║
-║   CREATIVITY    ███████████████████░   95%             ║
-║   LEARNING      ████████████████████  100%             ║
-║   PROBLEM SOLVING ██████████████████░   90%            ║
-║   COFFEE        ██████████████████░░    90% ☕         ║
-║                                                        ║
-║             STATUS: BUILDING 🚀                        ║
-║                                                        ║
-╚════════════════════════════════════════════════════════╝
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheQuietOm&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area_color=203A43&area=true&hide_border=true&custom_title=Om's%20Contribution%20Graph" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🐍 CONTRIBUTION SNAKE
+
+<br>
+
+<img src="https://raw.githubusercontent.com/TheQuietOm/TheQuietOm/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🌱 CURRENTLY LEARNING
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2000&pause=700&color=7CFC00&center=true&vCenter=true&width=850&lines=%3E+Java+%E2%98%95;%3E+.NET+%E2%9A%99%EF%B8%8F;%3E+React+%E2%9A%9B%EF%B8%8F;%3E+Modern+Web+Development+%F0%9F%8C%90;%3E+Problem+Solving+%F0%9F%A7%A0;%3E+Building+Real+World+Projects+%F0%9F%9A%80"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🔥 CURRENT MISSION
+
+<br>
+
+                 ┌─────────────────────────┐
+                 │      CURRENT MISSION    │
+                 └────────────┬────────────┘
+                              │
+              ┌───────────────┼───────────────┐
+              │               │               │
+              ▼               ▼               ▼
+        ┌──────────┐    ┌──────────┐    ┌──────────┐
+        │  LEARN   │    │  BUILD   │    │  GROW    │
+        │    🌱    │    │    🚀    │    │    📈    │
+        └──────────┘    └──────────┘    └──────────┘
+              │               │               │
+              └───────────────┼───────────────┘
+                              ▼
+                    ┌──────────────────┐
+                    │  CREATE IMPACT   │
+                    │       ⚡         │
+                    └──────────────────┘
 ```
 
 </div>
@@ -339,9 +442,11 @@ An interactive chatbot concept using Artificial Intelligence and Natural Languag
 
 <div align="center">
 
-# 🐍 Contribution Snake
+# 🧠 DEVELOPER PHILOSOPHY
 
-<img src="https://raw.githubusercontent.com/TheQuietOm/TheQuietOm/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=900&color=00F7FF&center=true&vCenter=true&width=900&height=100&lines=Every+problem+has+a+solution.;Every+bug+has+a+lesson.;Every+project+starts+with+an+idea.;Think+different.+Build+different.;Don't+just+write+code...+create+something.;Keep+Building.+Keep+Learning.+Keep+Growing.+%F0%9F%9A%80"/>
 
 </div>
 
@@ -349,16 +454,142 @@ An interactive chatbot concept using Artificial Intelligence and Natural Languag
 
 <div align="center">
 
-# 🌐 Connect With Me
+# 💻 TERMINAL
+
+
+┌──(om㉿developer)-[~/projects]
+└─$ whoami
+
+> om
+
+┌──(om㉿developer)-[~/projects]
+└─$ skills --list
+
+> Java
+> C / C++
+> C#
+> Python
+> PHP
+> JavaScript
+> HTML / CSS
+> React
+> .NET
+> Node.js
+> MySQL
+> MongoDB
+
+┌──(om㉿developer)-[~/projects]
+└─$ status
+
+> 🟢 ONLINE
+> 🟢 LEARNING
+> 🟢 BUILDING
+> 🟢 CREATING
+
+┌──(om㉿developer)-[~/projects]
+└─$ ./future.sh
+
+> 🚀 INITIALIZING FUTURE...
+> ████████████████████████████████████ 100%
+> SUCCESS!
+```
+
+</div>
+
+---
+
+<div align="center">
+
+# ⚡ DEVELOPER MODE
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1500&pause=600&color=00F7FF&center=true&vCenter=true&width=800&lines=%5BSYSTEM%5D+Developer+Mode+Activated;%5BSYSTEM%5D+Creativity+%3D+100%25;%5BSYSTEM%5D+Curiosity+%3D+100%25;%5BSYSTEM%5D+Coffee+%3D+90%25+%E2%98%95;%5BSYSTEM%5D+Bugs+%3D+Eventually+Fixed+%F0%9F%94%A5;%5BSYSTEM%5D+Mission+%3D+Build+Something+Amazing+%F0%9F%9A%80"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🎯 2026 GOALS
+
+<table>
+
+<tr>
+
+<td align="center">
+
+### 🚀
+
+**BUILD**
+
+More real-world projects
+
+</td>
+
+<td align="center">
+
+### 🧠
+
+**LEARN**
+
+Advanced development
+
+</td>
+
+<td align="center">
+
+### 💼
+
+**GROW**
+
+Professional experience
+
+</td>
+
+<td align="center">
+
+### 🌎
+
+**EXPLORE**
+
+New technologies
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🎵 CODING VIBES
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=700&color=FF69B4&center=true&vCenter=true&width=700&lines=%F0%9F%8E%A7+Music+ON;%F0%9F%92%BB+VS+Code+OPEN;%F0%9F%A7%A0+Brain+ACTIVE;%E2%98%95+Coffee+READY;%F0%9F%9A%80+Let's+BUILD!"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🌐 CONNECT WITH ME
 
 <br>
 
 <a href="mailto:omjani959@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/TheQuietOm">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
@@ -371,36 +602,35 @@ An interactive chatbot concept using Artificial Intelligence and Natural Languag
 
 <div align="center">
 
-# 💭 Random Developer Thought
+# 💭 RANDOM DEVELOPER THOUGHT
 
 <br>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
-<br><br>
+</div>
 
-### ⭐ Thanks for visiting my profile!
+---
 
-### `Stay curious. Keep coding. Keep creating. 🚀`
+<div align="center">
+
+# ✨ ONE LAST THING
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=140&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=The+best+code+is+code+that+solves+a+real+problem.;Dream+it.+Design+it.+Code+it.;Stay+curious.+Stay+creative.;Keep+building+%F0%9F%9A%80"/>
+
+<br><br>
+
+### ⭐ Thanks for visiting my digital space!
+
+### `CODE • CREATE • INNOVATE • REPEAT`
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,25:2C5364,50:203A43,75:0F2027,100:000000&height=180&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
-```
 
-<!--
-**TheQuietOm/TheQuietOm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Important:** is version mein actual animations mostly external SVG/GIF services se aa rahi hain, isliye GitHub par README render hone ke baad typing/wave effects automatically animate honge. **Snake** ke liye GitHub Action alag se chahiye; woh setup karoge to contribution snake bhi genuinely animate hoga.
