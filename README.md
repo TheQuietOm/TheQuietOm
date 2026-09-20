@@ -1,6 +1,4 @@
-Yes 😭🔥 Ab ye wala **much more loaded + animated + premium** bana raha hoon. Isme animated header/footer, multiple typing animations, GIF, neon badges, animated contribution graph, snake, trophies, profile stats, project cards, timeline-style sections, terminal, quote animation, etc. hain.
 
-**Purana README pura delete karke sirf ye complete code paste karo:**
 
 <div align="center">
 
