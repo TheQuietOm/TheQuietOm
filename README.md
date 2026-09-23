@@ -291,30 +291,6 @@ New Technologies
 
 </div>
 
----
-
-# 🧠 Developer Philosophy
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2200&pause=800&color=00F7FF&center=true&vCenter=true&width=900&height=100&lines=Every+problem+has+a+solution.;Every+bug+has+a+lesson.;Every+project+starts+with+an+idea.;Think+different.+Build+different.;Don't+just+write+code...+create+something.;Keep+Building.+Keep+Learning.+Keep+Growing.+%F0%9F%9A%80"/>
-<br><br>
-
-                    CODE
-                     ↓
-                  CREATE
-                     ↓
-                  DEBUG
-                     ↓
-                  IMPROVE
-                     ↓
-                   SHIP
-                     ↓
-                  REPEAT
-
-
-</div>
-
 
 # 🌐 Connect With Me
 
