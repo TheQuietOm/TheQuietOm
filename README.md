@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=90&lines=Hey+%F0%9F%91%8B%2C+I'm+Om+Jani;Frontend+Developer+%7C+Java+%7C+.NET+%7C+Web;Turning+Ideas+Into+Interactive+Experiences+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=Hey+%F0%9F%91%8B%2C+I'm+Om+Jani;Frontend+Developer+%7C+Java+%7C+.NET+%7C+Web;Turning+Ideas+Into+Interactive+Experiences+%F0%9F%9A%80" />
 
 <br><br>
 
@@ -107,6 +107,8 @@ I enjoy transforming ideas into functional applications, designing clean interfa
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=1800&pause=650&color=00F7FF&center=true&vCenter=true&width=850&lines=System+Online+%E2%9A%A1;Code+Running+%F0%9F%92%BB;Ideas+Compiling+%F0%9F%A7%A0;Projects+Building+%F0%9F%9A%80;Future+Loading+%E2%9C%A8"/>
 
 </div>
+
+---
 
 # ⚡ Tech Arsenal
 
@@ -283,6 +285,8 @@ New Technologies
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1700&pause=650&color=00F7FF&center=true&vCenter=true&width=850&lines=LEARN+%E2%86%92+BUILD+%E2%86%92+IMPROVE+%E2%86%92+CREATE+IMPACT+%E2%9A%A1;KEEP+LEARNING+%E2%80%A2+KEEP+BUILDING+%E2%80%A2+KEEP+GROWING+%F0%9F%9A%80"/>
 
 </div>
+
+---
 
 # 🌐 Connect With Me
 
