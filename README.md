@@ -1,9 +1,8 @@
-
 <div align="center">
 
 <!-- ===================== HEADER ===================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,25:0F2027,50:203A43,75:2C5364,100:00F7FF&height=240&section=header&text=OM%20JANI&fontSize=60&fontColor=FFFFFF&fontAlignY=35&desc=DEVELOPER%20%7C%20CREATOR%20%7C%20PROBLEM%20SOLVER&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,25:0F2027,50:203A43,75:2C5364,100:00F7FF&height=240&section=header&text=Om%20Jani&fontSize=60&fontColor=FFFFFF&fontAlignY=35&desc=DEVELOPER%20%7C%20CREATOR%20%7C%20PROBLEM%20SOLVER&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
 
 <br>
 
@@ -45,7 +44,6 @@
 
 </div>
 
----
 ---
 
 # 👨‍💻 About Me
@@ -110,8 +108,6 @@ I enjoy transforming ideas into functional applications, designing clean interfa
 
 </div>
 
-
-
 # ⚡ Tech Arsenal
 
 <div align="center">
@@ -155,8 +151,8 @@ I enjoy transforming ideas into functional applications, designing clean interfa
 
 ## UI / UX
 
-Interactive Interfaces
-Clean Layouts
+Interactive Interfaces  
+Clean Layouts  
 Modern Experiences
 
 </td>
@@ -167,8 +163,8 @@ Modern Experiences
 
 ## Web Apps
 
-Responsive Websites
-Dynamic Applications
+Responsive Websites  
+Dynamic Applications  
 Modern Web Experiences
 
 </td>
@@ -179,8 +175,8 @@ Modern Web Experiences
 
 ## Applications
 
-Java Applications
-.NET Applications
+Java Applications  
+.NET Applications  
 Database Systems
 
 </td>
@@ -191,8 +187,8 @@ Database Systems
 
 ## Problem Solving
 
-Debugging
-Logic Building
+Debugging  
+Logic Building  
 Continuous Learning
 
 </td>
@@ -214,12 +210,9 @@ Continuous Learning
 
 <br><br>
 
-
 </div>
 
 ---
-
-
 
 # 🌱 Currently Learning
 
@@ -290,7 +283,6 @@ New Technologies
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1700&pause=650&color=00F7FF&center=true&vCenter=true&width=850&lines=LEARN+%E2%86%92+BUILD+%E2%86%92+IMPROVE+%E2%86%92+CREATE+IMPACT+%E2%9A%A1;KEEP+LEARNING+%E2%80%A2+KEEP+BUILDING+%E2%80%A2+KEEP+GROWING+%F0%9F%9A%80"/>
 
 </div>
-
 
 # 🌐 Connect With Me
 
